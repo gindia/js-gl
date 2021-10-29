@@ -3,4 +3,4 @@
 JavaScript.
 
 ## how to run
-> form `code` folder just run any http server e.g. `python -m http.server` or `elm reactor` ..etc.
+> from `code` folder just run any http server e.g. `python -m http.server` or `elm reactor` ..etc.
